@@ -2,6 +2,15 @@
 
 
 
+https://user-images.githubusercontent.com/73137934/205305999-1d6cec4c-319c-4cbc-8ad5-65ad3fa0781a.mp4
+
+new minenugget being created in: [ Next.js, Typescript, Prisma && PSQL, [jq,bootstrap, scss &&sass] ]
+
+
+
+
+
+
 https://user-images.githubusercontent.com/73137934/178240201-a6de5f38-fbe6-4cca-8ebc-2a8406ebaf5f.mp4
 
 
