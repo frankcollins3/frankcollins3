@@ -1,5 +1,9 @@
 
 
+https://user-images.githubusercontent.com/73137934/211180608-40b43654-25da-4c04-a3cf-ab6e15c7cdc6.mp4
+
+
+
 
 
 
@@ -19,10 +23,6 @@ new minenugget being created in: [ Next.js, Typescript, Prisma && PSQL, [jq,boot
 
 
 
-https://user-images.githubusercontent.com/73137934/178240201-a6de5f38-fbe6-4cca-8ebc-2a8406ebaf5f.mp4
-
-
- _He/Him_ . Learning/Building in React & Mongo
 
 
 https://user-images.githubusercontent.com/73137934/175394065-f6a1cd81-f0cd-44b8-a842-aa21f2e139b1.mp4
