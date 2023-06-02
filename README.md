@@ -1,3 +1,6 @@
+https://github.com/frankcollins3/frankcollins3/assets/73137934/f6a099fb-39f2-41d9-a64f-610ca7b71d72
+
+
 https://user-images.githubusercontent.com/73137934/218265618-7dc25976-3315-48b4-a3e3-2f22cf0df3b5.mp4
 
 
@@ -16,23 +19,6 @@ https://user-images.githubusercontent.com/73137934/211181282-ed13fb42-7596-4f18-
 
 
 https://user-images.githubusercontent.com/73137934/205588603-40cc50e9-91bb-4519-bfd9-d4adf5698bda.mp4
-
-
-
-
-
-
-
-new minenugget being created in: [ Next.js, Typescript, Prisma && PSQL, [jq,bootstrap, scss &&sass] ]
-
-
-
-
-
-
-
-
-https://user-images.githubusercontent.com/73137934/175394065-f6a1cd81-f0cd-44b8-a842-aa21f2e139b1.mp4
 
 
 
