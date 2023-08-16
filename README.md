@@ -1,3 +1,6 @@
+https://github.com/frankcollins3/frankcollins3/assets/73137934/ba32b47d-8b8b-4920-8f4e-fd3ea63aa4b3
+
+
 https://github.com/frankcollins3/frankcollins3/assets/73137934/c8789a09-e560-42ee-a24c-8e834129d640
 
 
@@ -11,10 +14,6 @@ https://github.com/frankcollins3/frankcollins3/assets/73137934/8a430a1c-01e8-439
 
 
 https://github.com/frankcollins3/frankcollins3/assets/73137934/d3b0075c-86ed-47aa-842e-b7e298db09b7
-
-
-
-https://user-images.githubusercontent.com/73137934/218265618-7dc25976-3315-48b4-a3e3-2f22cf0df3b5.mp4
 
 
 
